@@ -5,4 +5,4 @@ To Save Some Vuln-Environments.
 - Spring Framework RCE(Spring4Shell)(CVE-2022-22965)
 - Spring Security RegexRequestMatcher Auth-Bypass(CVE-2022-22978)
 - Apache Commons-Configuration RCE(CVE-2022-33980)
-
+- Fastjson 1.2.80 反序列化漏洞
